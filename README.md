@@ -33,11 +33,11 @@ Após a instalação dos componentes acima, siga estas etapas:
 
 O aplicativo Pasword Generator possui três telas principais:
 
-1. **Senhas:** Nesta tela, você pode cadastrar o nome do seu animal de estimação.
+1. **Senhas:** Nesta tela, você tira senhas que são separadas entre "prioritária", "geral" e "retirada de exames"
 
-2. **Exames:** Use esta tela para registrar a alimentação do seu animal, incluindo o nome da ração e a quantidade em gramas consumidas.
+2. **Exames:** Aqui você acompanha de maneira detalhada as senhas já chamadas, e se quiser pode visualizar o relatório detalhado com a data e hora em que foram geradas
 
-3. **Atendentes:** Registre as vacinas do seu animal de estimação nesta tela, incluindo a data em que a mesma foi administrada
+3. **Atendentes:** Aqui temos 4 guichês que simbolizam mesas de atendimento. Ao clicar em "atender", as telas anteriores se atualizam conforme o atendimento realizado
 
 ## Contribuição
 
